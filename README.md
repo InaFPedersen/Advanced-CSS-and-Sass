@@ -1,28 +1,35 @@
 # Advanced-CSS-and-Sass
-In this repo, it will be followed a Udemy course in the topic Advanced CSS and Sass 
+
+In this repo, it will be followed a Udemy course in the topic Advanced CSS and Sass
 
 ## Original
+
 The Original course by Jonas Schmedtmann can be found [HERE](https://www.udemy.com/course/advanced-css-and-sass)
 
 ## Learning outcome
-* Tons of modern CSS techniques to create stunning designs and effects
 
-* Advanced CSS animations with @keyframes, animation and transition
+- Tons of modern CSS techniques to create stunning designs and effects
 
-* How CSS works behind the scenes: the cascade, specificity, inheritance, etc.
+- Advanced CSS animations with @keyframes, animation and transition
 
-* CSS architecture: component-based design, BEM, writing reusable code, etc.
+- How CSS works behind the scenes: the cascade, specificity, inheritance, etc.
 
-* Flexbox layouts: build a huge real-world project with flexbox
+- CSS architecture: component-based design, BEM, writing reusable code, etc.
 
-* CSS Grid layouts: build a huge real-world project with CSS Grid
+- Flexbox layouts: build a huge real-world project with flexbox
 
-* Using Sass in real-world projects: global variables, architecting CSS, managing media queries, etc.
+- CSS Grid layouts: build a huge real-world project with CSS Grid
 
-* Advanced responsive design: media queries, mobile-first vs desktop-first, em vs rem units, etc.
+- Using Sass in real-world projects: global variables, architecting CSS, managing media queries, etc.
 
-* Responsive images in HTML and CSS for faster pageloads
+- Advanced responsive design: media queries, mobile-first vs desktop-first, em vs rem units, etc.
 
-* SVG images and videos in HTML and CSS: build a background video effect
+- Responsive images in HTML and CSS for faster pageloads
 
-* The NPM ecosystem: development workflows and building processes
+- SVG images and videos in HTML and CSS: build a background video effect
+
+- The NPM ecosystem: development workflows and building processes
+
+### Some documentation links
+
+- [CSS-Tricks](https://css-tricks.com)
