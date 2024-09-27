@@ -33,3 +33,5 @@ The Original course by Jonas Schmedtmann can be found [HERE](https://www.udemy.c
 ### Some documentation links
 
 - [CSS-Tricks](https://css-tricks.com)
+
+- [Simple movies](https://cover.co)
