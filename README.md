@@ -35,3 +35,5 @@ The Original course by Jonas Schmedtmann can be found [HERE](https://www.udemy.c
 - [CSS-Tricks](https://css-tricks.com)
 
 - [Simple movies](https://cover.co)
+
+- [Easing functions](https://easings.net)
