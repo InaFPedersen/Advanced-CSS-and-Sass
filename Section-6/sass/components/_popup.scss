@@ -22,11 +22,34 @@
     opacity: 0;
     transform: translate(-50%, -50%) scale(0.25);
     transition: all 0.5s 0.2s;
+
+    @include respond(tablet-landscape) {
+      width: 85%;
+    }
+
+    @include respond(tablet-portrait) {
+      width: 85%;
+    }
+
+    @include respond(phone) {
+      width: 95%;
+    }
   }
 
   &__left {
     width: 33.333333%;
     display: table-cell;
+    padding: 4rem;
+    vertical-align: middle;
+
+    @include respond(tablet-landscape) {
+      padding: 0 0 0 4rem;
+      width: 20%;
+    }
+
+    @include respond(phone) {
+      width: 15%;
+    }
   }
 
   &__right {
