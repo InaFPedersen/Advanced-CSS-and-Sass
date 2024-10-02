@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: gray;
+  padding: 10px;
+
+  display: flex;
+  flex-direction: row; /* Can also be row-reverse, column, column-reverse */
+  justify-content: center; /* Can also be space-between, space-around, space-evenly, flex-end, flex-start */
+  align-items: center; /* Can also be: stretch, flex-start, flex-end, baseline */
+
+  flex-wrap: wrap; /* Can also be nowrap, and wrap-reverse */
+}
+
+.item {
+  background-color: aliceblue;
+  padding: 30px;
+  margin: 30px;
+  color: blue;
+  font-size: 40px;
+}
+
+.middle {
+  height: 200px;
+  flex: 0 1 300px;
+}
+
+.big-number {
+  font-size: 70px;
+}
