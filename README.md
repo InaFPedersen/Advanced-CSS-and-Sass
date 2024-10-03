@@ -37,3 +37,5 @@ The Original course by Jonas Schmedtmann can be found [HERE](https://www.udemy.c
 - [Simple movies](https://cover.co)
 
 - [Easing functions](https://easings.net)
+
+- [IcoMoon](https://icomoon.io)
